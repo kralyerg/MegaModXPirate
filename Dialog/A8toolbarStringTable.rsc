@@ -22,5 +22,32 @@ StringTable resource
 		{ String _name = "A8civics";			String _text = "A8 Civics"; }
 		{ String _name = "A8civicsLwr";			String _text = "A8 civics"; }
 		{ String _name = "A8civicsTip";			String _text = "Angainor88's civics toolbar."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "A8crafts";				String _text = "A8 crafts"; }
+		{ String _name = "A8craftsLwr";				String _text = "A8 crafts"; }
+		{ String _name = "A8craftsTip";				String _text = "Angainor88 crafts toolbar."; }
+		{ String _name = "A8deco";				String _text = "A8 deco"; }
+		{ String _name = "A8decoLwr";				String _text = "A8 deco"; }
+		{ String _name = "A8decoPlants";				String _text = "A8 Deco Plants"; }
+		{ String _name = "A8decoPlantsLwr";				String _text = "A8 Deco Plants"; }
+		{ String _name = "A8decoPlantsTip";				String _text = "Angainor88 Deco Plants toolbar."; }
+		{ String _name = "A8decoTip";				String _text = "Angainor88 deco toolbar."; }
+		{ String _name = "A8decoWalls";				String _text = "A8 Walls"; }
+		{ String _name = "A8decoWallsLwr";				String _text = "A8 Walls"; }
+		{ String _name = "A8decoWallsTip";				String _text = "Angainor88 Deco Walls toolbar."; }
+		{ String _name = "A8food";				String _text = "A8 food"; }
+		{ String _name = "A8foodLwr";				String _text = "A8 food"; }
+		{ String _name = "A8foodTip";				String _text = "Angainor88 grub toolbar."; }
+		{ String _name = "A8natresources";				String _text = "A8 natural resources"; }
+		{ String _name = "A8natresourcesLwr";				String _text = "A8 natural resources"; }
+		{ String _name = "A8natresourcesTip";				String _text = "Angainor88 natural resources toolbar."; }
+		{ String _name = "A8roads";				String _text = "A8 roads"; }
+		{ String _name = "A8roadsLwr";				String _text = "A8 roads"; }
+		{ String _name = "A8roadsTip";				String _text = "Angainor88 roads toolbar."; }
+		{ String _name = "A8storage";				String _text = "A8 storage"; }
+		{ String _name = "A8storageLwr";				String _text = "A8 storage"; }
+		{ String _name = "A8storageTip";				String _text = "Angainor88 stowage toolbar."; }
+
 	]
 }

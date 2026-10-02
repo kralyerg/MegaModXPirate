@@ -365,6 +365,24 @@ StringTable graphTypes
 		{ String _name = "Type20";			String _text = "Misc"; }
 		{ String _name = "Type21";			String _text = "Reserved"; }
 		{ String _name = "Type22";			String _text = "Reserved"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CandlesBeeswaxRequire";				String _text = "4-5 Candles (3 Beeswax + 1 Firewood)"; }
+		{ String _name = "CandlesTallowRequire";				String _text = "4-5 Candles (3 Tallow + 1 Firewood)"; }
+		{ String _name = "CopperToolRequire";				String _text = "1-2 Copper Tools (1 Copper + 1 Log)"; }
+		{ String _name = "DSSVBannock1Require";				String _text = "18-20 Bannocks (17 Wheat + 1 Water)"; }
+		{ String _name = "DSSVBannock2Require";				String _text = "18-20 Bannocks (17 Corn + 1 Water)"; }
+		{ String _name = "DSSVPasture1";				String _text = "Village Pasture, log fence"; }
+		{ String _name = "DSSVPasture1Lwr";				String _text = "village pasture log fence"; }
+		{ String _name = "DSSVPasture1Tip";				String _text = "A log fenced Pasture fer livestock. A semi-transparent ground texture. Tile size = 7x7min - 34x34max. 1 Log + 1 work to build per tile."; }
+		{ String _name = "DSSVProdRemoveButton";				String _text = "Scuttle"; }
+		{ String _name = "DSSVProdRemoveButtonLwr";				String _text = "scuttle"; }
+		{ String _name = "DSSVProdRemoveButtonTip";				String _text = "Scuttle"; }
+		{ String _name = "FishingGearRequireCopper";				String _text = "7-8 Tools:Fisherman (1 Copper + 3 Logs)"; }
+		{ String _name = "HuntingGearRequireCopper";				String _text = "7-8 Tools:Hunter (1 Copper + 3 Logs)"; }
+		{ String _name = "ToolStonecutterRequire";				String _text = "5-8 Tools:Stonemason (1 Iron + 1 Charcoal + 1 Log)"; }
+		{ String _name = "WagonPartsRequire";				String _text = "1-2 Wagon Parts (5 Logs + 2 Iron)"; }
+
 	]
 }
 

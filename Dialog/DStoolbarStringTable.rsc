@@ -112,5 +112,18 @@ StringTable resource
 			{ String _name = "DSCastlesTowers";		String _text = "Castles and Towers"; }
 			{ String _name = "DSCastlesTowersLwr";	String _text = "castles"; }
 			{ String _name = "DSCastlesTowersTip";	String _text = "Castles & Towers"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "DSDecoBenchesTip";				String _text = "Tables, Benches & places of respite"; }
+		{ String _name = "DSFoodBees";				String _text = "Bee & Honey production"; }
+		{ String _name = "DSFoodBeesLwr";				String _text = "bee an' honey production"; }
+		{ String _name = "DSFoodBeesTip";				String _text = "Bee & Honey production"; }
+		{ String _name = "DSFoodWater";				String _text = "Water collection & production"; }
+		{ String _name = "DSFoodWaterLwr";				String _text = "water collection an' production"; }
+		{ String _name = "DSFoodWaterTip";				String _text = "Water collection & production"; }
+		{ String _name = "DSStorageLeanTo";				String _text = "Lean-to Sheds"; }
+		{ String _name = "DSStorageLeanToLwr";				String _text = "lean-to sheds"; }
+		{ String _name = "DSStorageLeanToTip";				String _text = "Lean-to Stowage Sheds"; }
+
 	]
 }

@@ -23,5 +23,9 @@ StringTable resource
 		{ String _name = "MaritimesToolShedLwr";				String _text = "tool shed"; }
 		{ String _name = "MaritimesToolShedTip";				String _text = "A tool shed, 5 F-variants, 200 unit capacity. Stores Tools."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Lumber";				String _text = "Lumber"; }
+
 	]	
 }

@@ -160,5 +160,104 @@ StringTable resource
 		{ String _name = "DSThompsonTradeDecoBalePole";			String _text = "Hay Bale"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleLwr";		String _text = "thompson trade dock"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleTip";		String _text = "Arrr, a ghosted decorative Hay Bale. Free to build. Delete via object UI menu."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AnimalsUpLeftTxt01";				String _text = "Upgrade option"; }
+		{ String _name = "AnimalsUpLeftTxt02";				String _text = "upgrade to a stowage place."; }
+		{ String _name = "AnimalsUpLeftTxt03";				String _text = "all grub an' edibles,"; }
+		{ String _name = "AnimalsUpLeftTxt04";				String _text = "(fruit, veg, grain, protein),"; }
+		{ String _name = "AnimalsUpLeftTxt05";				String _text = "tools & clothing, glass,"; }
+		{ String _name = "AnimalsUpLeftTxt06";				String _text = "crafted goods & utensils,"; }
+		{ String _name = "AnimalsUpLeftTxt07";				String _text = "herbs & medicine, textiles &"; }
+		{ String _name = "AnimalsUpLeftTxt08";				String _text = "fabrics an' packed goods."; }
+		{ String _name = "DSThompsonTradeDeco01Fish";				String _text = "fishing dock"; }
+		{ String _name = "DSThompsonTradeDeco01FishLwr";				String _text = "thompson trade dock"; }
+		{ String _name = "DSThompsonTradeDeco01FishTip";				String _text = "Arrr, fishing is allowed at this location, upgrade to allow 1-2 fisherman to work from the dock. Requires 34 work to build."; }
+		{ String _name = "DSThompsonTradeDecoGhost";				String _text = "ghost dock 1x1"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnr";				String _text = "ghost dock cnr"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrLwr";				String _text = "thompson trade dock"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrTip";				String _text = "a ghosted decorative Thompson Trade dock corner triangle. 1x1, F-key variants. Free to build. Scuttle via object UI menu."; }
+		{ String _name = "DSThompsonTradeDecoGhostLow";				String _text = "ghost dock 1x1 low"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnr";				String _text = "ghost dock low cnr"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrLwr";				String _text = "thompson trade dock"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrTip";				String _text = "a ghosted decorative Thompson Trade dock corner triangle at lower level. 1x1, F-key variants. Free to build. Scuttle via object UI menu."; }
+		{ String _name = "DSThompsonTradeDecoGhostLowLwr";				String _text = "thompson trade dock"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowTip";				String _text = "a ghosted decorative Thompson Trade dock piece at lower level. 1x1. Free to build. Scuttle via object UI menu."; }
+		{ String _name = "DSThompsonTradeDecoGhostLwr";				String _text = "thompson trade dock"; }
+		{ String _name = "DSThompsonTradeDecoGhostMenu";				String _text = "Ghosted decorative dock pieces"; }
+		{ String _name = "DSThompsonTradeDecoGhostTip";				String _text = "a ghosted decorative Thompson Trade dock piece. 1x1. Free to build. Scuttle via object UI menu."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorage";				String _text = "Stowage: Grub & Goods"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageLwr";				String _text = "thompson trading stroage"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageTip";				String _text = "Thompson Trade Merchant Stowage. Stores all foods and edibles, tools, clothing, crafted goods & utensils, glass, textiles & fabrics, herbs & medicine and packed goods. Building has a 30,000 capacity weight. 10x8 footprint. Requires 144 work to build."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt1";				String _text = "domesticated, hand-raised livestock,"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt2";				String _text = "fer the healthiest, productive animals."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxtName";				String _text = "Livestock dock"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUp";				String _text = "Stowage: Grub & Goods"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpLwr";				String _text = "thompson trading stroage"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpTip";				String _text = "upgrade the trader into a stowage place. Stores all foods and edibles, tools, clothing, crafted goods & utensils, glass, textiles & fabrics, herbs & medicine and packed goods. Building has a 30,000 capacity weight. 10x8 footprint. Requires 89 work to build."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt1";				String _text = "logs & timber, stone, iron & metals,"; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt2";				String _text = "building materials & forged items."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxtName";				String _text = "Building Supplies dock"; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt1";				String _text = "fruits, vegetables an' grains."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt2";				String _text = "always fresh & deliveries on time."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxtName";				String _text = "Fruit, Veg & Grain dock"; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt1";				String _text = "household & metallurgical fuels."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt2";				String _text = "regular deliveries, always on time."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxtName";				String _text = "Fuels dock"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt1";				String _text = "tools, clothing, textiles & fabrics,"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt2";				String _text = "health, crafted & forged items."; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxtName";				String _text = "Goods & Crafts dock"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt1";				String _text = "all minerals: ores & materials,"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt2";				String _text = "iron ore, lime, sand & clay."; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxtName";				String _text = "Ores & Materials dock"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt1";				String _text = "the freshest cuts of meat, poultry,"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt2";				String _text = "tree nuts an' other proteins."; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxtName";				String _text = "Meats & Nuts dock"; }
+		{ String _name = "DSThompsonTradeMerchantRoad";				String _text = "Thompson Trade Merchant Stone Road"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01";				String _text = "TTM Stone Road NS"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01Tip";				String _text = "an ideal North-South road texture, 1 Stone + 2 Work to construct per tile. Faster crew travel."; }
+		{ String _name = "DSThompsonTradeMerchantRoad02";				String _text = "TTM Stone Road NESW"; }
+		{ String _name = "DSThompsonTradeMerchantRoad02Tip";				String _text = "an ideal NorthEast-SouthWest road texture, 1 Stone + 2 Work to construct per tile. Faster crew travel."; }
+		{ String _name = "DSThompsonTradeMerchantRoad03";				String _text = "TTM Stone Road EW"; }
+		{ String _name = "DSThompsonTradeMerchantRoad03Tip";				String _text = "an ideal East-West road texture, 1 Stone + 2 Work to construct per tile. Faster crew travel."; }
+		{ String _name = "DSThompsonTradeMerchantRoad04";				String _text = "TTM Stone Road NWSE"; }
+		{ String _name = "DSThompsonTradeMerchantRoad04Tip";				String _text = "an ideal NorthWest-SouthEast road texture, 1 Stone + 2 Work to construct per tile. Faster travel fer the crew."; }
+		{ String _name = "DSThompsonTradeMerchantRoadLwr";				String _text = "thompson trade merchant stone road"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt1";				String _text = "the finest crop an' orchard seeds,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt2";				String _text = "purity an' germination guaranteed."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxtName";				String _text = "Seeds dock"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1";				String _text = "Small Trader"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Tip";				String _text = "upgrade to the Thompson Small Trade Merchant, to import all grub, household fuels, tools, herbs an' health. Traders will accept most inventory as payment. Building has a 12,000 capacity weight. 3x8 footprint. Employs 1-5 Traders. Requires 34 work to build."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt1";				String _text = "fruit, veg, grain, meat & nuts,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt2";				String _text = "fuel, tools, herbs an' health items."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1TxtName";				String _text = "Small Trade dock"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2";				String _text = "Small Trader"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Tip";				String _text = "upgrade to the Thompson Small Trade Merchant, to import all grub, household fuels, clothing, herbs an' health. Traders will accept most inventory as payment. Building has a 12,000 capacity weight. 3x8 footprint. Employs 1-5 Traders. Requires 34 work to build."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt1";				String _text = "fruit, veg, grain, meat & nuts,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt2";				String _text = "fuel, clothing, herbs an' health items."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2TxtName";				String _text = "Small Trade dock"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt0";				String _text = "Town Trade Merchant, importers"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt1";				String _text = "o' all the town needs: grub, tools,"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt2";				String _text = " clothing, fuel, medicine & more."; }
+		{ String _name = "DSThompsonTradeMerchantTownTxtName";				String _text = "Edibles & Goods dock"; }
+		{ String _name = "DeleteButtonTip";				String _text = "Scuttle this dock piece, arrr."; }
+		{ String _name = "DisableFishWork";				String _text = "not Fishin'"; }
+		{ String _name = "EnableFishWork";				String _text = "now Fishin'"; }
+		{ String _name = "FishingGear";				String _text = "Fishing Gear"; }
+		{ String _name = "SeedUpLeftTxt01";				String _text = "Upgrade option #1"; }
+		{ String _name = "SeedUpLeftTxt03";				String _text = "all grub an' edibles"; }
+		{ String _name = "SeedUpLeftTxt04";				String _text = "(fruit, veg, grain, protein),"; }
+		{ String _name = "SeedUpLeftTxt05";				String _text = "household fuels, tools &"; }
+		{ String _name = "SeedUpLeftTxt06";				String _text = "herbs an' health items. "; }
+		{ String _name = "SeedUpRightTxt01";				String _text = "Upgrade option #2"; }
+		{ String _name = "SeedUpRightTxt03";				String _text = "all grub an' edibles"; }
+		{ String _name = "SeedUpRightTxt04";				String _text = "(fruit, veg, grain, protein),"; }
+		{ String _name = "SeedUpRightTxt05";				String _text = "household fuels, clothing &"; }
+		{ String _name = "SeedUpRightTxt06";				String _text = "herbs an' health items. "; }
+		{ String _name = "SeedUpTxt02";				String _text = "the merchant will import:"; }
+		{ String _name = "TotalAnimalBuy";				String _text = "Purchase livestock from trader -- Total cost:"; }
+		{ String _name = "TotalSeedBuy";				String _text = "Purchase seeds from trader -- Total cost:"; }
+		{ String _name = "Upgrade";				String _text = "Upgrade"; }
+
 	]
 }

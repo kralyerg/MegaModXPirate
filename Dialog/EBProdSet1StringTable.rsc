@@ -88,5 +88,19 @@ StringTable resource
 		{ String _name = "Custom0Limit";							String _text = "Crafted Limit"; }
 		{ String _name = "Custom0LimitShort";						String _text = "Crafted"; }
 		{ String _name = "Custom0LimitTip";							String _text = "Controls how much crafted booty be stowed away. Once this limit be reached, production will cease, arrr."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Barley";				String _text = "Barley"; }
+		{ String _name = "Bread";				String _text = "Bread"; }
+		{ String _name = "Cake";				String _text = "Cake"; }
+		{ String _name = "Flour";				String _text = "Flour"; }
+		{ String _name = "LeatherCured";				String _text = "Cured Leather"; }
+		{ String _name = "NMWater";				String _text = "Water"; }
+		{ String _name = "Pie";				String _text = "Pie"; }
+		{ String _name = "Pouch";				String _text = "Pouch"; }
+		{ String _name = "Saddle";				String _text = "Saddle"; }
+		{ String _name = "Salt";				String _text = "Salt"; }
+		{ String _name = "Sorghum";				String _text = "Sorghum"; }
+
 	]
 }

@@ -103,5 +103,11 @@ StringTable resource
 		
 		{ String _name = "ClearEBRoadCancel";						String _text = "Belay Removal"; }
 		{ String _name = "ClearEBRoadCancelTip";					String _text = "Belay removal tasks in the selected area, arr."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "EBStoneRoad15";				String _text = "Stone Road 15"; }
+		{ String _name = "EBStoneRoad15Lwr";				String _text = "stone road 15"; }
+		{ String _name = "EBStoneRoad15Tip";				String _text = "Stone Road 15"; }
+
 	]
 }

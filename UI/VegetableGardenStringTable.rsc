@@ -27,5 +27,11 @@ StringTable resource
 
 		{ String _name = "EasyName";			String _text = "Vegetable Garden Easy"; }
 		{ String _name = "EasyDesc";			String _text = "An easy game begins with six families. A large amount of clothing, grub, firewood, building materials, and tools be provided. Homes and stowage areas have already been built. Seeds for fields and orchards be available as well as a herd of livestock."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ProfessionHomeGrower";				String _text = "Gardener"; }
+		{ String _name = "ProfessionHomeGrowerDeath";				String _text = "Got cut up something fierce an' died of blood poisoning, arrr."; }
+		{ String _name = "ProfessionHomeGrowerTip";				String _text = "Gardener"; }
+
 	]
 }

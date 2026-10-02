@@ -403,6 +403,14 @@ StringTable resource
 
 // -------------------------------------------------------------------------------------------------------------
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "NMTReedsFarm";				String _text = "Reeds Farm"; }
+		{ String _name = "NMTReedsFarmLwr";				String _text = "reeds farm"; }
+		{ String _name = "NMTReedsFarmRequire";				String _text = "Reeds"; }
+		{ String _name = "NMTReedsFarmTip";				String _text = "NMT Docks Reeds Farm: a workplace where reeds can be grown in yer Docks zone. Size: 6x7. Cost: 36 logs. Employs 1-3 Farmers. Tips: Does not require seeds. Please keep the front of this building free for its bags of grub and dont use it as a walking dock."; }
+		{ String _name = "Rice";				String _text = "Rice"; }
+
 	]
 }
 

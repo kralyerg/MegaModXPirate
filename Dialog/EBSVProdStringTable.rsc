@@ -134,5 +134,26 @@ StringTable resource
 		{ String _name = "SeedOilPecanRequire";							String _text = "Seed Oil [25 Pecan  + 1 Amphora]"; }
 		{ String _name = "SeedOilWalnutRequire";						String _text = "Seed Oil [25 Walnut + 1 Amphora]"; }
 		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Vegetable Oil [25 Kernels + 1 Amphora]"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Brick";				String _text = "Brick"; }
+		{ String _name = "Charcoal";				String _text = "Charcoal"; }
+		{ String _name = "Custom5Limit";				String _text = "Construction Limit"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Construction"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Controls the amount o' stored construction materials. Once this limit be reached production will cease."; }
+		{ String _name = "EBSVBrickCharCoalRequire";				String _text = "Brick [10 Clay + 3 Charcoal]"; }
+		{ String _name = "EBSVBrickCoalRequire";				String _text = "Brick [10 Clay + 3 Coal]"; }
+		{ String _name = "EBSVGlassCharCoalRequire";				String _text = "Glass [23 Sand + 3 Charcoal]"; }
+		{ String _name = "EBSVGlassCoalRequire";				String _text = "Glass [23 Sand + 3 Coal]"; }
+		{ String _name = "EBSVLumberRequire";				String _text = "Lumber [4 Wood]"; }
+		{ String _name = "EBSVWorkShop";				String _text = "Village Workshop"; }
+		{ String _name = "EBSVWorkShopLwr";				String _text = "village workshop"; }
+		{ String _name = "EBSVWorkShopTip";				String _text = "The Village Workshop produces Bricks, Glass, an' Lumber. Up to 2 Craftman can be employed to produce 6 to 8 Bricks from 10 Clay an' either 3 Coal or 3 Charcoal. 7 to 8 Glass from 23 Sand an' either 3 Coal or 3 Charcoal. 4 to 5 Lumber from 4 logs. Build Cycles: 94. 2 F Key Color Variations."; }
+		{ String _name = "Glass";				String _text = "Glass"; }
+		{ String _name = "Lumber";				String _text = "Lumber"; }
+		{ String _name = "ProfessionCraftsman";				String _text = "Craftsman"; }
+		{ String _name = "ProfessionCraftsmanDeath";				String _text = "was crushed by a collapsin' pile o' bricks, arrr."; }
+		{ String _name = "ProfessionCraftsmanTip";				String _text = "The Craftsman produces Glass, Bricks, an' Lumber at the Workshop."; }
+
 	]
 }		

@@ -28,6 +28,13 @@ StringTable resource
 		{ String _name = "ProfessionDairymanTip";		String _text = "Yo ho, a dairyman brings milk to a creamery and makes yogurt, cream and cheese."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "drank spoiled milk and keeled over deader than a doornail, arrr."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "MilkyCows";				String _text = "Dairy Cows"; }
+		{ String _name = "RedCreamery";				String _text = "[RC] Red Creamery"; }
+		{ String _name = "RedCreameryLwr";				String _text = "[rc] red creamery"; }
+		{ String _name = "RedCreameryTip";				String _text = "Red Creamery can whip up cheese, cream, butter an' yogurt. Costs 48 wood an' 12 stone."; }
+
 	]
 }
 

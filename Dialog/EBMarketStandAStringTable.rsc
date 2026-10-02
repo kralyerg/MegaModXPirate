@@ -37,5 +37,11 @@ StringTable resource
 		{ String _name = "EBFarmStand";						String _text = "Farm Stand"; }
 		{ String _name = "EBFarmStandLwr";					String _text = "farm stand"; }
 		{ String _name = "EBFarmStandTip";					String _text = "The Farmstand gives yer crew a spot to collect grub, fuel, tools, Textiles, Fabrics, and duds. Up to 2 Vendors can be employed. Build Cycle: 32."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ToolbarMarkets";				String _text = "Markets Toolbar"; }
+		{ String _name = "ToolbarMarketsLwr";				String _text = "markets toolbar"; }
+		{ String _name = "ToolbarMarketsTip";				String _text = "Markets Toolbar, arrr."; }
+
 	]
 }

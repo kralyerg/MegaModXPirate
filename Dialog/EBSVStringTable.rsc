@@ -225,5 +225,47 @@ StringTable resource
 		{ String _name = "MerchantSVIndustry";			String _text = "Industrial Merchant"; }		//All construction and materials.
 		
 		
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ClearCopper";				String _text = "Collect Copper Ore"; }
+		{ String _name = "ClearCopperLwr";				String _text = "collect copper ore"; }
+		{ String _name = "ClearCopperTip";				String _text = "Collect all copper ore in the selected area."; }
+		{ String _name = "Copper";				String _text = "Copper"; }
+		{ String _name = "CopperOre";				String _text = "Copper Ore"; }
+		{ String _name = "CopperOreRequire";				String _text = "Copper Ore"; }
+		{ String _name = "Custom5Limit";				String _text = "Construction Limit"; }
+		{ String _name = "Custom5LimitShort";				String _text = "constructiont"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Controls the amount o' stored Construction Materials. Once this limit be reached production will cease."; }
+		{ String _name = "EBSVHousing4x4Dark";				String _text = "4x4 Dark Wooden Houses Toolbar"; }
+		{ String _name = "EBSVHousing4x4DarkLwr";				String _text = "4x4 dark wooden houses toolbar"; }
+		{ String _name = "EBSVHousing4x4DarkTip";				String _text = "Dark Color 4x4 Village Wooden Houses Toolbar, arrr."; }
+		{ String _name = "EBSVHousing4x4Light";				String _text = "Light 4x4 Wooden Houses Toolbar"; }
+		{ String _name = "EBSVHousing4x4LightLwr";				String _text = "light 4x4 wooden houses toolbar"; }
+		{ String _name = "EBSVHousing4x4LightTip";				String _text = "Light Color 4x4 Village Wooden Houses Toolbar, arrr."; }
+		{ String _name = "EBSVHousing4x4Warm";				String _text = "Medium 4x4 Wooden Houses Toolbar"; }
+		{ String _name = "EBSVHousing4x4WarmLwr";				String _text = "medium 4x4 wooden houses toolbar"; }
+		{ String _name = "EBSVHousing4x4WarmTip";				String _text = "Medium Color 4x4 Village Wooden Houses Toolbar, arrr."; }
+		{ String _name = "EBSVHousingDark3x4A";				String _text = "3x4 Wooden House Dark"; }
+		{ String _name = "EBSVHousingDark3x4ALwr";				String _text = "3x4 wooden house dark"; }
+		{ String _name = "EBSVHousingDark3x4ATip";				String _text = "The Village 3x4 Wooden House Dark Color provides a place fer crew to live, eat, store grub, an' stay warm. Up to 4 folk can live in the Wooden House. Storage: 900. Build Cycles: 24. 5 F Key Thatched Roof Variants."; }
+		{ String _name = "EBSVHousingLight3x4A";				String _text = "3x4 Wooden House Light"; }
+		{ String _name = "EBSVHousingLight3x4ALwr";				String _text = "3x4 wooden house Light"; }
+		{ String _name = "EBSVHousingLight3x4ATip";				String _text = "The Village 3x4 Wooden House Light Color provides a place fer crew to live, eat, store grub, an' stay warm. Up to 4 folk can live in the Wooden House. Storage: 900. Build Cycles: 24. 5 F Key Thatched Roof Variants."; }
+		{ String _name = "EBSVHousingWarm3x4A";				String _text = "3x4 Wooden House Medium"; }
+		{ String _name = "EBSVHousingWarm3x4ALwr";				String _text = "3x4 wooden house medium"; }
+		{ String _name = "EBSVHousingWarm3x4ATip";				String _text = "The Village 3x4 Wooden House Medium Color provides a place fer crew to live, eat, store grub, an' stay warm. Up to 4 folk can live in the Wooden House. Storage: 900. Build Cycles: 24. 5 F Key Thatched Roof Variants."; }
+		{ String _name = "SVOreToCopperCharcoalRequire";				String _text = "Copper [2 Copper Ore + 1 Charcoal]"; }
+		{ String _name = "SVOreToCopperCoalRequire";				String _text = "Copper [2 Copper Ore + 1 Coal]"; }
+		{ String _name = "SVOreToCopperFirewoodRequire";				String _text = "Copper [2 Copper Ore + 2 Firewood]"; }
+		{ String _name = "ToolbarEBSVHousing3x4Dark";				String _text = "Dark 3x4 Wooden Houses Toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkLwr";				String _text = "dark 3x4 wooden houses toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkTip";				String _text = "Dark Color 3x4 Village Wooden Houses 3x4 Toolbar, arrr."; }
+		{ String _name = "ToolbarEBSVHousing3x4Light";				String _text = "Light 3x4 Wooden Houses Toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightLwr";				String _text = "light 3x4 wooden houses toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightTip";				String _text = "Light Color 3x4 Village Wooden Houses Toolbar, arrr."; }
+		{ String _name = "ToolbarEBSVHousing3x4Warm";				String _text = "Medium 3x4 Wooden Houses Toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmLwr";				String _text = "medium 3x4 wooden houses toolbar"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmTip";				String _text = "Medium Color 3x4 Village Wooden Houses 3x4 Toolbar, arrr."; }
+
 	]
 }

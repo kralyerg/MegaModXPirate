@@ -173,5 +173,67 @@ StringTable resource
 
 
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "DirtClear";				String _text = "Scuttle Dirt Road"; }
+		{ String _name = "DirtClearTip";				String _text = "Use this tool to scuttle NRMOD's dirt roads."; }
+		{ String _name = "DirtRoadTipz4";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz0Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz10Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz11Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz12Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz13Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz14Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz1tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz2TIP";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz6Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz7Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz8Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadz9Tip";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "DirtRoadzGroup";				String _text = "Dirt Road"; }
+		{ String _name = "DirtRoadzGroupLwr";				String _text = "dirt road"; }
+		{ String _name = "DirtRoadzTip5";				String _text = "Provides faster travel for crew."; }
+		{ String _name = "EarthClear";				String _text = "Scuttle Mix Road"; }
+		{ String _name = "EarthClearLwr";				String _text = "scuttle mix road"; }
+		{ String _name = "EarthClearTip";				String _text = "Use this tool to scuttle NRMOD's mix roads."; }
+		{ String _name = "EarthRoadz0Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz10Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz11Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz12Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz13Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz14Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz1Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz2Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz3Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz4Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz5Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz6Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz7Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz8Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadz9Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "EarthRoadzGroup";				String _text = "Mix Road"; }
+		{ String _name = "EarthRoadzGroupLwr";				String _text = "mix road"; }
+		{ String _name = "StoneClear";				String _text = "Scuttle Stone Road"; }
+		{ String _name = "StoneClearLwr";				String _text = "scuttle stone road"; }
+		{ String _name = "StoneClearTip";				String _text = "Use this tool to scuttle NRMOD's stone roads."; }
+		{ String _name = "StoneRoadz0Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz10Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz11Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz12Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz13Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz14Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz1Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz2Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz3Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz4Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz5Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz6Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz7Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz8Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadz9Tip";				String _text = "Provides fastest travel for crew."; }
+		{ String _name = "StoneRoadzGroup";				String _text = "Stone Road"; }
+		{ String _name = "StoneRoadzGroupLwr";				String _text = "stone road"; }
+		{ String _name = "TipDirtRoadz3";				String _text = "Provides faster travel for crew."; }
+
 	]
 }
