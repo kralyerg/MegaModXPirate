@@ -110,6 +110,116 @@ StringTable resource
 			String _name = "TreeGreyTip";
 			String _text = "A grey tree.";
 		}
+
+		// --- merged from IdleCoreRecovered/IdleSCTRecovered aliases, 2026-10-03 ---
+		{
+			String _name = "Impossible";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "ImpossibleLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "ImpossibleTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "ImpossibleTreeiteams";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "ImpossibleTrees";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "ImpossibleTreesLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "ImpossibleTreesTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "TheTree";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "TheTreeLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "TheTreeTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "TheTreePoints";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "TheTreePointsLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "TheTreePointsTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "TheTrees";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "TheTreesLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "TheTreesTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "Tree";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "TreeLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "TreeTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "Trees";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "TreesLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "TreesTip";
+			String _text = "Build crazy trees in yer town.";
+		}
+		{
+			String _name = "impossibletreeiteams";
+			String _text = "Impossible Tree Items";
+		}
+		{
+			String _name = "impossibletreeiteamsLwr";
+			String _text = "impssible tree items";
+		}
+		{
+			String _name = "impossibletreeiteamsTip";
+			String _text = "Build crazy trees in yer town.";
+		}
 	]
 
 }

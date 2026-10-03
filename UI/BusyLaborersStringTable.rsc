@@ -4,39 +4,43 @@ StringTable toolbar
 	[
 		{
 			String _name = "CollectStoneAndIron";
-			String _text = "[Bl]Gather Iron Ore and Stone";
+			String _text = "Gather Stone and Iron";
 		}
 		{
 			String _name = "CollectStoneAndIronLwr";
-			String _text = "[Bl]Gather Iron Ore and Stone";
+			String _text = "gather stone and iron";
 		}
 		{
 			String _name = "CollectStoneAndIronTip";
-			String _text = "Send yer idle hands to gather iron ore and stone in the chosen area.";
+			String _text = "Ask yer crew to gather both stone and iron in the chosen area.";
 		}
 		{
 			String _name = "CollectHerbs";
-			String _text = "[Bl]Gather Herbs";
+			String _text = "Gather Herbs";
 		}
 		{
 			String _name = "CollectHerbsLwr";
-			String _text = "[Bl]Gather Herbs";
+			String _text = "gather herbs";
 		}
 		{
 			String _name = "CollectHerbsTip";
-			String _text = "Send yer idle hands to gather herbs in the chosen area.";
+			String _text = "Ask yer crew to gather healin' herbs in the chosen area.";
 		}
 		{
 			String _name = "CollectWildFood";
-			String _text = "[Bl]Gather Wild Grub";
+			String _text = "Gather Wild Grub";
 		}
 		{
 			String _name = "CollectWildFoodLwr";
-			String _text = "[Bl]Gather Wild Grub";
+			String _text = "Gather wild grub";
 		}
 		{
 			String _name = "CollectWildFoodTip";
-			String _text = "Send yer idle hands to gather wild grub in the chosen area.";
+			String _text = "Ask yer crew to gather all manner o' wild grub (berries, mushrooms, onions, and roots) in the chosen area.";
+		}
+		{
+			String _name = "BusyLaborers_menu";
+			String _text = "Busy Laborers Mod";
 		}
 		{
 			String _name = "MainToolbar";

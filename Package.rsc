@@ -5,7 +5,7 @@ PackageFile MegaModXPirate
 	String _description = "A parody 'translation' of MegaMod X's UI and dialog text into pirate speak, for fun. No buildings, toolbars, or mechanics are modified. Place ABOVE MegaMod in the mod load order so these re-worded strings override the English originals.";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
-	int _userVersion = 1;
+	int _userVersion = 2;
 
 	// all files in resource directory
 	String _includeList
