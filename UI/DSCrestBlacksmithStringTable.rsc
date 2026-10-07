@@ -15,5 +15,11 @@ StringTable resource
 		
 		
 		
+	
+		{ String _name = "FishingGear";	String _text = "Fishing Gear"; }
+		{ String _name = "FishingGearRequire";	String _text = "8 Fishing Gear [3 Log + 1 Iron]"; }
+		{ String _name = "Custom0Limit";	String _text = "Crafted Limit"; }
+		{ String _name = "Custom0LimitShort";	String _text = "Crafted"; }
+		{ String _name = "Custom0LimitTip";	String _text = "Controls the amount o' stored crafted items. Once this limit be reached, production will cease."; }
 	]
 }

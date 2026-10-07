@@ -166,6 +166,7 @@ StringTable resource
 		{ String _name = "TinyshackTip";					String _text = "Avast, a wee and basic dwelling that will allow new families to grow in size up to 3 people only. However an existing family of any size may move in if bein' re-homed."; }
 		
 		{ String _name = "Tinyhouse";						String _text = "Tiny House"; }
+		{ String _name = "TinyhouseLwr";						String _text = "tiny house"; }
 		{ String _name = "TinyshackLwr";					String _text = "tiny house"; }
 		{ String _name = "TinyhouseTip";					String _text = "A wee and basic dwelling that will allow new families to grow in size up to 4 people only. However an existing family of any size may move in if bein' re-homed. More warm and comfortable than a tiny shack."; }
 		
@@ -363,6 +364,7 @@ StringTable resource
 		{ String _name = "IronMineDeepTip";					String _text = "Avast, a deep mine to continue resource extraction. Useful to upgrade to when yer current mine be nearly empty."; }
 
 		{ String _name = "IronMineDeeper";					String _text = "Deep Mine"; }
+		{ String _name = "IronMineDeeperTip";					String _text = "Yo ho, an even deeper mine to keep the plunder flowin'. Useful to upgrade to when yer current mine be nearly empty."; }
 		{ String _name = "IronMineDeeperLwr";					String _text = "deep mine"; }
 		{ String _name = "IronMineDeepTip";					String _text = "Avast, an even deeper mine to continue resource extraction. Useful to upgrade to when yer current mine be nearly empty."; }
 
@@ -371,6 +373,7 @@ StringTable resource
 		{ String _name = "QuarryDeepTip";					String _text = "Avast, a deep quarry to continue resource extraction. Useful to upgrade to when yer current quarry be nearly empty."; }
 
 		{ String _name = "QuarryDeeper";					String _text = "Deeper Quarry"; }
+		{ String _name = "QuarryDeeperTip";					String _text = "Yo ho, an even deeper quarry to keep the plunder flowin'. Useful to upgrade to when yer current quarry be nearly empty."; }
 		{ String _name = "QuarryDeeperLwr";					String _text = "deeper quarry"; }
 		{ String _name = "QuarryDeepTip";					String _text = "Avast, an even deeper quarry to continue resource extraction. Useful to upgrade to when yer current quarry be nearly empty."; }
 

@@ -779,6 +779,7 @@ StringTable resource
 	//Wood house is here
 
 		{ String _name = "Tinyhouse";					String _text = "Tiny House"; }
+		{ String _name = "TinyhouseLwr";					String _text = "tiny house"; }
 		{ String _name = "TinyshackLwr";				String _text = "tiny house"; }
 		{ String _name = "TinyhouseTip";				String _text = "Yo ho, a wee an' basic dwellin' that will allow new families to grow in size up to 4 folk only. However an existin' family o' any size may move in if bein' re-homed. More warm an' comfortable than a tiny shack."; }
 		

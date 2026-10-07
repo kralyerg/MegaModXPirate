@@ -395,5 +395,14 @@ StringTable resource
 		{ String _name = "DSCornerStorageUpgradeTip";		String _text = "Upgrade this fer a stowage capacity o' 500, stores Vegetables, Fruits an' Grains. Shiver me timbers!"; }
 		
 
+	
+		{ String _name = "ToolbarDSFencesTip";	String _text = "DS Fences. A collection of modular fence components."; }
+		{ String _name = "DSCountryStoneWall5wideLwr";	String _text = "country stone wall"; }
+		{ String _name = "MenuDSModularFencesTip";	String _text = "Modular Fence components - Roadbound decorative, F-key fer variants."; }
+		{ String _name = "MenuDSStoneWallsTip";	String _text = "Town Stone Wall - 2 color styles, F-key variants, arrr."; }
+		{ String _name = "MenuDSFencesDecoTip";	String _text = "Decorations - F-key fer variants."; }
+		{ String _name = "MenuDSFencesDecoLanternsTip";	String _text = "Lanterns"; }
+		{ String _name = "DSFenceClearBuildings";	String _text = "Scuttle Structures"; }
+		{ String _name = "DSFenceClearBuildingsTip";	String _text = "Scuttle structures in the selected area. NOTE some fences/gates may require deletion by upgreading or Delete button in UI box."; }
 	]
 }

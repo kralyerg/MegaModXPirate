@@ -334,6 +334,34 @@ StringTable resource
 		{ String _name = "WildHoney";			String _text = "Wild Honey"; }
 		
 		
+	
+		{ String _name = "DSSVFlags1TEST";	String _text = "Burgee Flag TEST"; }
+		{ String _name = "FishBass";	String _text = "Bass"; }
+		{ String _name = "FishBream";	String _text = "Bream"; }
+		{ String _name = "FishCarp";	String _text = "Carp"; }
+		{ String _name = "FishCod";	String _text = "Cod"; }
+		{ String _name = "FishEel";	String _text = "Eel"; }
+		{ String _name = "FishMullet";	String _text = "Mullet"; }
+		{ String _name = "FishPerch";	String _text = "Perch"; }
+		{ String _name = "FishPike";	String _text = "Pike"; }
+		{ String _name = "FishSalmon";	String _text = "Salmon"; }
+		{ String _name = "FishTench";	String _text = "Tench"; }
+		{ String _name = "FishTrout";	String _text = "Trout"; }
+		{ String _name = "MolluscClam";	String _text = "Clam"; }
+		{ String _name = "MolluscMussel";	String _text = "Mussel"; }
+		{ String _name = "MolluscSnail";	String _text = "Snail"; }
+		{ String _name = "CanvasCoatRequireFM";	String _text = "1-2 Canvas Coats [1 Canvas] slow"; }
+		{ String _name = "DSSVFishermansCatchRequire2";	String _text = "Fisherman's Catch [Perch + Mullet + Clam + Firewood]"; }
+		{ String _name = "DSSVFishermansCatchRequire3";	String _text = "Fisherman's Catch [Bass + Pike + Eel + Firewood]"; }
+		{ String _name = "DSSVFishermansCatchRequire4";	String _text = "Fisherman's Catch [Salmon + Tench + Snail + Firewood]"; }
+		{ String _name = "BoiledBream";	String _text = "Boiled Bream"; }
+		{ String _name = "DSSVBoiledBreamRequire";	String _text = "Boiled Bream [Bream + Herb + Water + Firewood]"; }
+		{ String _name = "ProfessionBeekeeper";	String _text = "Beekeeper"; }
+		{ String _name = "ProfessionBeekeeperTip";	String _text = "Avast, a beekeeper tends to bees."; }
+		{ String _name = "ProfessionBeekeeperDeath";	String _text = "was stung by a Queen bee and died. Arrr."; }
+		{ String _name = "ProfessionCook";	String _text = "Cook"; }
+		{ String _name = "ProfessionCookTip";	String _text = "A cook will prepare meals fer yer crew."; }
+		{ String _name = "ProfessionCookDeath";	String _text = "died from eatin' rotten meat, arrr."; }
 	]
 }
 

@@ -409,6 +409,13 @@ StringTable resource
 		{ String _name = "CityRoads3T5x5Sidewalk";			String _text = "City Roads 5x5 Sidewalk"; }
 		{ String _name = "CityRoads3T5x5SidewalkLwr";			String _text = "city roads 5x5 sidewalk"; }
 		{ String _name = "CityRoads3T5x5SidewalkTip";			String _text = "City Roads 5x5 Sidewalk. Put a 5 width X 5 depth sidewalk tile (Ghosted)."; }
+	
+		{ String _name = "CityRoadsToolbar1X";	String _text = "City Roads Toolbar 1X"; }
+		{ String _name = "CityRoadsToolbar1XLwr";	String _text = "city roads toolbar 1X"; }
+		{ String _name = "CityRoadsToolbar1XTip";	String _text = "City Roads Toolbar 1X. Open this toolbar to get 1-tiles width options."; }
+		{ String _name = "CityRoadsToolbar2T1X";	String _text = "City Roads Toolbar 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XLwr";	String _text = "city roads toolbar 1X"; }
+		{ String _name = "CityRoadsToolbar2T1XTip";	String _text = "City Roads Toolbar 1X. Open this toolbar to get 1-tiles width options."; }
 	]
 }
 

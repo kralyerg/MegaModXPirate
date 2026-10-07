@@ -941,6 +941,7 @@ StringTable resource
 		{ String _name = "NMT3F2C1T2Tip";		String _text = "A NMT MultiStory house 2nd floor be used for housing yer crew. Size: 1x5 tiles. Cost: 16 lumber, 28 stone, 4 iron, 10 glass, 18 logs. Residence: 5 crew. Heat EFF%: 96. Models: 1. Color: 1. Tips: Arrr, they be meant to be placed just to the right of the Corner Multi-level 1st floor."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "MultiStory 2nd floor"; }
+		{ String _name = "NMT3F2C1T3Lwr";			String _text = "multistory 2nd floor"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "multistory 2nd floor"; }
 		{ String _name = "NMT3F2C1T3Tip";		String _text = "A NMT MultiStory house 2nd floor be used for housing yer crew. Size: 1x5 tiles. Cost: 16 lumber, 28 brick, 4 stone, 10 glass, 18 rooftile. Residence: 5 crew. Heat EFF%: 110. Models: 1. Color: 1. Tips: Arrr, they be meant to be placed just to the right of the Corner Multi-level 1st floor."; }
 
@@ -1044,6 +1045,7 @@ StringTable resource
 		{ String _name = "HostelF2C1T2Tip";			String _text = "An Hostel 2nd floor be used for housing yer crew when they not have their own home. Size: 1x5 tiles. Cost: 16 lumber, 28 stone, 4 iron, 10 glass, 18 logs. Residence: 3X families of 5 crew. Heat EFF%: 96. Models: 1. Color: 1. Tips: Shiver me timbers, they be meant to be placed just to the right of the Corner Hostel 1st floor."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Hostel 2nd floor"; }
+		{ String _name = "HostelF2C1T3Lwr";			String _text = "hostel 2nd floor"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "hostel 2nd floor"; }
 		{ String _name = "HostelF2C1T3Tip";			String _text = "An Hostel 2nd floor be used for housing yer crew when they not have their own home. Size: 1x5 tiles. Cost: 16 lumber, 28 brick, 4 stone, 10 glass, 18 rooftile. Residence: 3X families of 5 crew. Heat EFF%: 110. Models: 1. Color: 1. Tips: Arrr, they be meant to be placed just to the right of the Corner Hostel 1st floor."; }
 
